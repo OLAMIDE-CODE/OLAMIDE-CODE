@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OLAMIDE-CODE
+- 👋 Hi, I’m @dev-olamide
 - 👀 I’m interested in HTML,CSS ,JAVASCRIPT ,BOOSTRAP and REACT.JS
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on any front end development project
